@@ -1,0 +1,178 @@
+{
+  "model": "claude-sonnet-5-5",
+  "created": "2026-10-29T16:51:24",
+  "attempts": [
+    {
+      "accepted": 20,
+      "problems": {
+        "Triage pass|Instagram": [
+          "longer than 30 words"
+        ]
+      },
+      "stop_reason": "end_turn"
+    },
+    {
+      "accepted": 20,
+      "problems": {
+        "Triage pass|Instagram": [
+          "banned wording ['because']"
+        ]
+      },
+      "stop_reason": "end_turn"
+    },
+    {
+      "accepted": 21,
+      "problems": {},
+      "stop_reason": "end_turn"
+    }
+  ],
+  "notes": [
+    {
+      "key": "Triage pass|Cold Reactivation",
+      "flag": "",
+      "source": "ai",
+      "with_slots": "The {value} triage pass rate rests on {behind} people who passed this stage, compared with {history} in past data, a gap of {difference}.",
+      "note": "The 26.8% triage pass rate rests on 11 people who passed this stage, compared with 22.0% in past data, a gap of +4.9 points."
+    },
+    {
+      "key": "Call rate|Cold Reactivation",
+      "flag": "",
+      "source": "ai",
+      "with_slots": "The {value} call rate is the all-channel rate, since this channel has too few cases, and sits against {history} in past data, a gap of {difference}.",
+      "note": "The 40.9% call rate is the all-channel rate, since this channel has too few cases, and sits against 44.4% in past data, a gap of -3.6 points."
+    },
+    {
+      "key": "Call-to-paid|Cold Reactivation",
+      "flag": "",
+      "source": "ai",
+      "with_slots": "The {value} call-to-paid rate is the all-channel rate, since this channel has too few cases, against {history} in past data, a gap of {difference}.",
+      "note": "The 81.2% call-to-paid rate is the all-channel rate, since this channel has too few cases, against 75.0% in past data, a gap of +6.2 points."
+    },
+    {
+      "key": "Triage pass|Educator Referral",
+      "flag": "",
+      "source": "ai",
+      "with_slots": "The {value} triage pass rate rests on {behind} people who passed this stage and sits close to {history} in past data, a gap of {difference}.",
+      "note": "The 45.1% triage pass rate rests on 41 people who passed this stage and sits close to 45.7% in past data, a gap of -0.7 points."
+    },
+    {
+      "key": "Call rate|Educator Referral",
+      "flag": "",
+      "source": "ai",
+      "with_slots": "The {value} call rate rests on {behind} people who passed this stage and sits close to {history} in past data, a gap of {difference}.",
+      "note": "The 56.1% call rate rests on 23 people who passed this stage and sits close to 55.8% in past data, a gap of +0.3 points."
+    },
+    {
+      "key": "Call-to-paid|Educator Referral",
+      "flag": "",
+      "source": "ai",
+      "with_slots": "The {value} call-to-paid rate rests on {behind} people who passed this stage and sits close to {history} in past data, a gap of {difference}.",
+      "note": "The 60.9% call-to-paid rate rests on 14 people who passed this stage and sits close to 62.5% in past data, a gap of -1.6 points."
+    },
+    {
+      "key": "Triage pass|Facebook",
+      "flag": "Thin",
+      "source": "ai",
+      "with_slots": "Be careful: the {value} triage pass rate rests on only {behind} people who passed this stage, so it is thin, against {history} in past data, a gap of {difference}.",
+      "note": "Be careful: the 2.6% triage pass rate rests on only 3 people who passed this stage, so it is thin, against 5.3% in past data, a gap of -2.7 points."
+    },
+    {
+      "key": "Call rate|Facebook",
+      "flag": "Far from history",
+      "source": "ai",
+      "with_slots": "Be careful: the {value} call rate is the all-channel rate and differs sharply from the {history} in past data for this channel, a gap of {difference}.",
+      "note": "Be careful: the 40.9% call rate is the all-channel rate and differs sharply from the 15.0% in past data for this channel, a gap of +25.9 points."
+    },
+    {
+      "key": "Call-to-paid|Facebook",
+      "flag": "Far from history",
+      "source": "ai",
+      "with_slots": "Be careful: the {value} call-to-paid rate is the all-channel rate and differs sharply from the {history} in past data for this channel, a gap of {difference}.",
+      "note": "Be careful: the 81.2% call-to-paid rate is the all-channel rate and differs sharply from the 33.3% in past data for this channel, a gap of +47.8 points."
+    },
+    {
+      "key": "Triage pass|Instagram",
+      "flag": "Thin",
+      "source": "ai",
+      "with_slots": "Triage pass of {value} sits close to the {history} history, a gap of {difference}, but rests on only {behind} people, so treat it carefully.",
+      "note": "Triage pass of 10.8% sits close to the 10.9% history, a gap of -0.1 points, but rests on only 7 people, so treat it carefully."
+    },
+    {
+      "key": "Call rate|Instagram",
+      "flag": "Far from history",
+      "source": "ai",
+      "with_slots": "Be careful: the {value} call rate is the all-channel rate and differs well away from the {history} in past data for this channel, a gap of {difference}.",
+      "note": "Be careful: the 40.9% call rate is the all-channel rate and differs well away from the 26.3% in past data for this channel, a gap of +14.5 points."
+    },
+    {
+      "key": "Call-to-paid|Instagram",
+      "flag": "Far from history",
+      "source": "ai",
+      "with_slots": "Be careful: the {value} call-to-paid rate is the all-channel rate and differs well away from the {history} in past data for this channel, a gap of {difference}.",
+      "note": "Be careful: the 81.2% call-to-paid rate is the all-channel rate and differs well away from the 60.0% in past data for this channel, a gap of +21.2 points."
+    },
+    {
+      "key": "Triage pass|Warm Referral",
+      "flag": "",
+      "source": "ai",
+      "with_slots": "The {value} triage pass rate rests on {behind} people who passed this stage and matches {history} in past data, a gap of {difference}.",
+      "note": "The 60.3% triage pass rate rests on 94 people who passed this stage and matches 60.3% in past data, a gap of +0.0 points."
+    },
+    {
+      "key": "Call rate|Warm Referral",
+      "flag": "",
+      "source": "ai",
+      "with_slots": "The {value} call rate rests on {behind} people who passed this stage and sits close to {history} in past data, a gap of {difference}.",
+      "note": "The 38.3% call rate rests on 36 people who passed this stage and sits close to 37.2% in past data, a gap of +1.1 points."
+    },
+    {
+      "key": "Call-to-paid|Warm Referral",
+      "flag": "Far from history",
+      "source": "ai",
+      "with_slots": "Be careful: the {value} call-to-paid rate rests on {behind} people who passed this stage and differs far from {history} in past data, a gap of {difference}.",
+      "note": "Be careful: the 88.9% call-to-paid rate rests on 32 people who passed this stage and differs far from 66.3% in past data, a gap of +22.6 points."
+    },
+    {
+      "key": "Triage pass|WhatsApp Organic",
+      "flag": "",
+      "source": "ai",
+      "with_slots": "The {value} triage pass rate rests on {behind} people who passed this stage, compared with {history} in past data, a gap of {difference}.",
+      "note": "The 39.7% triage pass rate rests on 52 people who passed this stage, compared with 30.8% in past data, a gap of +8.9 points."
+    },
+    {
+      "key": "Call rate|WhatsApp Organic",
+      "flag": "",
+      "source": "ai",
+      "with_slots": "The {value} call rate rests on {behind} people who passed this stage and sits close to {history} in past data, a gap of {difference}.",
+      "note": "The 36.5% call rate rests on 19 people who passed this stage and sits close to 36.1% in past data, a gap of +0.5 points."
+    },
+    {
+      "key": "Call-to-paid|WhatsApp Organic",
+      "flag": "",
+      "source": "ai",
+      "with_slots": "The {value} call-to-paid rate is the all-channel rate, since this channel has too few cases, against {history} in past data, a gap of {difference}.",
+      "note": "The 81.2% call-to-paid rate is the all-channel rate, since this channel has too few cases, against 77.1% in past data, a gap of +4.0 points."
+    },
+    {
+      "key": "Revenue per client|All",
+      "flag": "Far from history",
+      "source": "ai",
+      "with_slots": "Be careful: revenue per client of {value} rests on {behind} paid clients and differs far from {history} in past data, a gap of {difference}.",
+      "note": "Be careful: revenue per client of BDT 37,515 rests on 68 paid clients and differs far from BDT 30,684 in past data, a gap of +22.3%."
+    },
+    {
+      "key": "Leads per operator|All",
+      "flag": "Assumption, not measured",
+      "source": "ai",
+      "with_slots": "Be careful: the figure of {value} per operator is an assumption, not a measured value from past data.",
+      "note": "Be careful: the figure of 85 a month per operator is an assumption, not a measured value from past data."
+    },
+    {
+      "key": "Calls per operator|All",
+      "flag": "Assumption, not measured",
+      "source": "ai",
+      "with_slots": "Be careful: the figure of {value} per operator is an assumption, not a measured value from past data.",
+      "note": "Be careful: the figure of 20 a month per operator is an assumption, not a measured value from past data."
+    }
+  ]
+}

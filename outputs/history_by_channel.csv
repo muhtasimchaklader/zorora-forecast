@@ -1,0 +1,150 @@
+month,channel,leads,paid_clients,revenue_bdt
+2024-01,Facebook,14,0,0
+2024-01,Instagram,5,0,0
+2024-01,Warm Referral,10,1,21500
+2024-01,WhatsApp Organic,9,0,0
+2024-02,Facebook,11,0,0
+2024-02,Instagram,5,1,6500
+2024-02,Warm Referral,12,1,21500
+2024-02,WhatsApp Organic,14,0,0
+2024-03,Facebook,16,0,0
+2024-03,Instagram,6,0,0
+2024-03,Warm Referral,18,0,0
+2024-03,WhatsApp Organic,8,0,0
+2024-04,Facebook,17,0,0
+2024-04,Instagram,10,1,6500
+2024-04,Warm Referral,16,2,43000
+2024-04,WhatsApp Organic,12,0,0
+2024-05,Facebook,19,0,0
+2024-05,Instagram,4,0,0
+2024-05,Warm Referral,14,0,0
+2024-05,WhatsApp Organic,15,0,0
+2024-06,Facebook,11,0,0
+2024-06,Instagram,9,0,0
+2024-06,Warm Referral,8,1,21500
+2024-06,WhatsApp Organic,7,2,43000
+2024-07,Facebook,10,0,0
+2024-07,Instagram,5,0,0
+2024-07,Warm Referral,7,1,21500
+2024-07,WhatsApp Organic,6,2,43000
+2024-08,Cold Reactivation,7,0,0
+2024-08,Facebook,9,0,0
+2024-08,Instagram,4,0,0
+2024-08,Warm Referral,13,0,0
+2024-08,WhatsApp Organic,7,2,23000
+2024-09,Cold Reactivation,7,0,0
+2024-09,Facebook,26,0,0
+2024-09,Instagram,5,0,0
+2024-09,Warm Referral,15,2,58000
+2024-09,WhatsApp Organic,9,0,0
+2024-10,Cold Reactivation,3,0,0
+2024-10,Facebook,21,0,0
+2024-10,Instagram,14,0,0
+2024-10,Warm Referral,17,3,61500
+2024-10,WhatsApp Organic,20,0,0
+2024-11,Cold Reactivation,6,0,0
+2024-11,Facebook,27,0,0
+2024-11,Instagram,16,0,0
+2024-11,Warm Referral,15,4,67000
+2024-11,WhatsApp Organic,18,0,0
+2024-12,Cold Reactivation,4,0,0
+2024-12,Facebook,18,0,0
+2024-12,Instagram,10,0,0
+2024-12,Warm Referral,17,3,48000
+2024-12,WhatsApp Organic,21,1,26000
+2025-01,Cold Reactivation,5,1,5500
+2025-01,Facebook,22,0,0
+2025-01,Instagram,2,0,0
+2025-01,Warm Referral,13,1,9500
+2025-01,WhatsApp Organic,10,1,9500
+2025-02,Cold Reactivation,1,0,0
+2025-02,Facebook,18,0,0
+2025-02,Instagram,4,0,0
+2025-02,Warm Referral,13,1,5500
+2025-02,WhatsApp Organic,9,1,42000
+2025-03,Cold Reactivation,2,0,0
+2025-03,Facebook,11,0,0
+2025-03,Instagram,6,0,0
+2025-03,Warm Referral,6,1,5500
+2025-03,WhatsApp Organic,10,0,0
+2025-04,Cold Reactivation,2,0,0
+2025-04,Facebook,4,0,0
+2025-04,Instagram,3,0,0
+2025-04,Warm Referral,14,1,11000
+2025-04,WhatsApp Organic,5,0,0
+2025-05,Cold Reactivation,4,1,9500
+2025-05,Educator Referral,3,0,0
+2025-05,Facebook,6,0,0
+2025-05,Instagram,2,0,0
+2025-05,Warm Referral,6,0,0
+2025-05,WhatsApp Organic,4,0,0
+2025-06,Cold Reactivation,4,0,0
+2025-06,Educator Referral,5,1,48000
+2025-06,Facebook,10,0,0
+2025-06,Instagram,5,0,0
+2025-06,Warm Referral,7,1,42000
+2025-06,WhatsApp Organic,7,1,42000
+2025-07,Cold Reactivation,4,0,0
+2025-07,Educator Referral,3,0,0
+2025-07,Facebook,5,0,0
+2025-07,Instagram,5,1,42000
+2025-07,Warm Referral,15,4,103500
+2025-07,WhatsApp Organic,10,1,58000
+2025-08,Cold Reactivation,3,0,0
+2025-08,Educator Referral,8,0,0
+2025-08,Facebook,12,0,0
+2025-08,Instagram,4,0,0
+2025-08,Warm Referral,15,1,42000
+2025-08,WhatsApp Organic,13,0,0
+2025-09,Cold Reactivation,5,1,42000
+2025-09,Educator Referral,14,2,112000
+2025-09,Facebook,15,0,0
+2025-09,Instagram,8,0,0
+2025-09,Warm Referral,13,3,110000
+2025-09,WhatsApp Organic,13,1,58000
+2025-10,Cold Reactivation,5,0,0
+2025-10,Educator Referral,10,1,26000
+2025-10,Facebook,21,1,9500
+2025-10,Instagram,8,0,0
+2025-10,Warm Referral,21,4,151500
+2025-10,WhatsApp Organic,17,2,116000
+2025-11,Cold Reactivation,7,0,0
+2025-11,Educator Referral,11,1,58000
+2025-11,Facebook,20,0,0
+2025-11,Instagram,8,0,0
+2025-11,Warm Referral,20,3,61500
+2025-11,WhatsApp Organic,22,2,69000
+2025-12,Cold Reactivation,4,2,84000
+2025-12,Educator Referral,12,2,51500
+2025-12,Facebook,17,0,0
+2025-12,Instagram,10,0,0
+2025-12,Warm Referral,16,3,142000
+2025-12,WhatsApp Organic,16,4,153000
+2026-01,Cold Reactivation,3,0,0
+2026-01,Educator Referral,11,2,68000
+2026-01,Facebook,3,0,0
+2026-01,Instagram,2,0,0
+2026-01,Warm Referral,16,7,290000
+2026-01,WhatsApp Organic,13,1,9500
+2026-02,Cold Reactivation,4,0,0
+2026-02,Educator Referral,5,2,68000
+2026-02,Facebook,5,0,0
+2026-02,Instagram,4,0,0
+2026-02,Warm Referral,11,2,116000
+2026-02,WhatsApp Organic,6,1,26000
+2026-03,Cold Reactivation,2,1,58000
+2026-03,Educator Referral,4,1,11000
+2026-03,Facebook,4,0,0
+2026-03,Instagram,4,0,0
+2026-03,Warm Referral,8,2,31500
+2026-03,WhatsApp Organic,6,2,100000
+2026-04,Educator Referral,5,0,0
+2026-04,Facebook,2,0,0
+2026-04,Instagram,4,0,0
+2026-04,Warm Referral,7,0,0
+2026-04,WhatsApp Organic,4,1,42000
+2026-05,Educator Referral,3,2,51500
+2026-05,Facebook,1,0,0
+2026-05,Instagram,3,0,0
+2026-05,Warm Referral,7,1,26000
+2026-05,WhatsApp Organic,4,1,32000

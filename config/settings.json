@@ -1,0 +1,28 @@
+{
+  "data_folder": "data/reconstructed",
+  "files": {
+    "contacts": "zorora_contacts_v3_1.csv",
+    "pipeline": "zorora_pipeline_v3.csv",
+    "revenue": "zorora_revenue_v3.csv"
+  },
+  "history_start_month": "2024-01",
+  "history_end_month": "2026-05",
+
+  "base_window": ["2025-06", "2026-05"],
+  "backtest_window": ["2024-01", "2024-12"],
+  "backtest_target_year": 2025,
+  "forecast_start_month": "2026-06",
+  "forecast_months": 12,
+
+  "min_denominator": 20,
+  "rebuild_tolerance": 0.10,
+
+  "leads_per_operator": 85,
+  "calls_per_operator": 20,
+
+  "currency": "BDT",
+  "bdt_per_cad": 86,
+  "cad_rate_date": "13 Oct 2026",
+  "cad_rate_source": "Wise",
+  "model": "claude-sonnet-5-5"
+}

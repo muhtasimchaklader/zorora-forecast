@@ -1,0 +1,14 @@
+# Secrets: the API key file never leaves this computer
+.env
+
+# Real Zorora exports: private, never published
+data/live/
+
+# Python and editor clutter
+__pycache__/
+*.pyc
+.vscode/
+
+# The old v3 contacts file had name columns. It is retired and must never be published.
+data/reconstructed/zorora_contacts_v3.csv
+~$*

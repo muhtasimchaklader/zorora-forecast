@@ -1,0 +1,6 @@
+channel,leads_in_window,mql_rate,mql_rate_source,mql_rate_based_on,call_rate,call_rate_source,call_rate_based_on,call_to_paid,call_to_paid_source,call_to_paid_based_on,driver_set
+Cold Reactivation,27,0.18518518518518517,own,5/27,0.3313253012048193,all channels,2/5,0.5454545454545454,all channels,1/2,backtest
+Facebook,199,0.07537688442211055,own,15/199,0.3313253012048193,all channels,1/15,0.5454545454545454,all channels,0/1,backtest
+Instagram,93,0.10752688172043011,own,10/93,0.3313253012048193,all channels,4/10,0.5454545454545454,all channels,2/4,backtest
+Warm Referral,162,0.6172839506172839,own,100/162,0.36,own,36/100,0.5277777777777778,own,19/36,backtest
+WhatsApp Organic,146,0.2465753424657534,own,36/146,0.3333333333333333,own,12/36,0.5454545454545454,all channels,8/12,backtest

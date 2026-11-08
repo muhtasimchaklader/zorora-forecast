@@ -1,0 +1,27 @@
+check,expected,actual,result
+Total leads,1458,1458,PASS
+Lifetime paid students,120,120,PASS
+Lifetime revenue (BDT),3610000,3610000,PASS
+Paid clients closed in 2024,27,27,PASS
+Paid clients closed in 2025,50,50,PASS
+Paid clients closed Jan-Jun 2026,30,30,PASS
+"Close rate, gate v0b (%)",4.9,4.9,PASS
+"Close rate, gate v1 (%)",5.7,5.7,PASS
+"Close rate, gate v2 (%)",10.3,10.3,PASS
+"Close rate, gate v3 (%)",12.1,12.1,PASS
+Gate v0b: paid / leads,37/750,37/750,PASS
+Gate v3: paid / leads,48/396,48/396,PASS
+"Diagnostic calls, gate v0b",67,67,PASS
+"Diagnostic calls, gate v1",11,11,PASS
+"Diagnostic calls, gate v2",27,27,PASS
+"Diagnostic calls, gate v3",58,58,PASS
+Jan-May 2026 cohort: leads -> MQL -> paid,151 -> 58 -> 22,151 -> 58 -> 22,PASS
+Jan-May 2026 cohort close rate (%),14.6,14.6,PASS
+"Triage pass, Educator Referral (%)",45.7,45.7,PASS
+"Triage pass, Warm Referral (%)",61.4,61.4,PASS
+"Triage pass, Facebook (%)",5.5,5.5,PASS
+Operator 2 (from Mar 2025): paid / leads,74/687,74/687,PASS
+Operator 1 (to Feb 2025): paid / leads,37/750,37/750,PASS
+As of 31 Dec 2024: closes in 2024,27,27,PASS
+As of 31 Dec 2024: no dates after 31 Dec 2024,True,True,PASS
+As of 31 May 2026: Jan-May cohort paid so far,18,18,PASS

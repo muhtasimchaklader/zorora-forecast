@@ -1,0 +1,122 @@
+{
+  "question": "What if educator leads rise 30% and we get 15% more leads in October and November?",
+  "model": "claude-sonnet-5-5",
+  "created": "2026-10-29T16:42:24",
+  "translate_attempts": [
+    {
+      "reply": {
+        "changes": [
+          {
+            "lever": "lead_volume",
+            "channel": "Educator Referral",
+            "months": [
+              "all"
+            ],
+            "value": 30
+          },
+          {
+            "lever": "lead_volume",
+            "channel": "all",
+            "months": [
+              "2026-10",
+              "2026-11"
+            ],
+            "value": 15
+          }
+        ],
+        "not_supported": ""
+      },
+      "problems": []
+    }
+  ],
+  "explain_attempts": [
+    {
+      "bullets": [
+        "In the model, leads over {period} go from {leads_base} in the base case to {leads_scenario} in this scenario, a difference of {leads_change}.",
+        "The forecast shows paid clients moving from {paid_base} to {paid_scenario} in this scenario.",
+        "In the model, revenue moves from {revenue_base} to {revenue_scenario}, a difference of {revenue_change}.",
+        "The forecast shows {months_short_scenario} short of operators in this scenario, with {busiest_month_scenario} as the busiest month at {busiest_load_scenario}."
+      ],
+      "problems": [
+        "Bullet 1: more than three slots."
+      ]
+    },
+    {
+      "bullets": [
+        "Over {period}, the forecast shows leads moving from {leads_base} in the base case to {leads_scenario} in this scenario.",
+        "In the model, paid clients move from {paid_base} to {paid_scenario} in this scenario.",
+        "The forecast shows revenue changing by {revenue_change}, and the model has {months_short_scenario} short of operators in this scenario.",
+        "The busiest month for leads in this scenario is {busiest_month_scenario}, with a lead load of {busiest_load_scenario}."
+      ],
+      "problems": []
+    }
+  ],
+  "not_supported": "",
+  "status": "drafted",
+  "changes": [
+    {
+      "lever": "lead_volume",
+      "channel": "Educator Referral",
+      "months": [
+        "all"
+      ],
+      "value": 30
+    },
+    {
+      "lever": "lead_volume",
+      "channel": "all",
+      "months": [
+        "2026-10",
+        "2026-11"
+      ],
+      "value": 15
+    }
+  ],
+  "changes_text": "Educator Referral leads +30% in every month; all channels leads +15% in Oct 2026, Nov 2026",
+  "raw": {
+    "leads_base": 599.0,
+    "leads_scenario": 651.4665879300929,
+    "paid_base": 69.35577483230404,
+    "paid_scenario": 76.28631889658385,
+    "revenue_base": 2601881.892833886,
+    "revenue_scenario": 2861881.253405343,
+    "months_short_base": 0,
+    "months_short_scenario": 2,
+    "busiest_load_base": 0.9814309120699072,
+    "busiest_load_scenario": 1.1800846531949756
+  },
+  "slots": {
+    "leads_base": "599 leads",
+    "leads_scenario": "651 leads",
+    "leads_change": "+52 leads",
+    "paid_base": "69.4 paid clients",
+    "paid_scenario": "76.3 paid clients",
+    "paid_change": "+6.9 paid clients",
+    "paid_change_pct": "+10.0%",
+    "revenue_base": "BDT 2,601,882",
+    "revenue_scenario": "BDT 2,861,881",
+    "revenue_change": "+BDT 259,999",
+    "months_short_base": "0 of 12 months",
+    "months_short_scenario": "2 of 12 months",
+    "busiest_month_scenario": "Nov 2026",
+    "busiest_load_base": "98% of one operator's lead capacity",
+    "busiest_load_scenario": "118% of the planned lead capacity",
+    "period": "Jun 2026 to May 2027"
+  },
+  "source": "ai",
+  "bullets_with_slots": [
+    "Over {period}, the forecast shows leads moving from {leads_base} in the base case to {leads_scenario} in this scenario.",
+    "In the model, paid clients move from {paid_base} to {paid_scenario} in this scenario.",
+    "The forecast shows revenue changing by {revenue_change}, and the model has {months_short_scenario} short of operators in this scenario.",
+    "The busiest month for leads in this scenario is {busiest_month_scenario}, with a lead load of {busiest_load_scenario}."
+  ],
+  "bullets": [
+    "Over Jun 2026 to May 2027, the forecast shows leads moving from 599 leads in the base case to 651 leads in this scenario.",
+    "In the model, paid clients move from 69.4 paid clients to 76.3 paid clients in this scenario.",
+    "The forecast shows revenue changing by +BDT 259,999, and the model has 2 of 12 months short of operators in this scenario.",
+    "The busiest month for leads in this scenario is Nov 2026, with a lead load of 118% of the planned lead capacity."
+  ],
+  "id": "S01",
+  "approved_by": "Muhtasim Chaklader",
+  "approved_on": "2026-11-06"
+}

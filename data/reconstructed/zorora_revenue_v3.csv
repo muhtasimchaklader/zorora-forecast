@@ -1,0 +1,121 @@
+lead_id,close_date,service_tier,service_category,base_price_bdt,add_on_universities,add_on_revenue_bdt,essay_count,total_revenue_bdt,student_type,destination_country,channel_source,gate_version,handled_by
+ZOR-2023-0001,2023-07-15,Application Strategy,Application Support,21500,,,,21500,UG,USA,Instagram,v0a,Founder
+ZOR-2023-0002,2023-07-10,Application Strategy,Application Support,21500,,,,21500,UG,UK,Warm Referral,v0a,Founder
+ZOR-2023-0003,2023-07-01,University Strategy,Standalone,6500,,,,6500,UG,Other,WhatsApp Organic,v0a,Founder
+ZOR-2023-0006,2023-07-17,Application Strategy,Application Support,21500,,,,21500,UG,Canada,WhatsApp Organic,v0a,Founder
+ZOR-2023-0007,2023-08-08,Application Strategy,Application Support,21500,,,,21500,UG,Canada,Warm Referral,v0a,Founder
+ZOR-2023-0011,2023-08-01,Application Strategy,Application Support,21500,,,,21500,UG,UK,Warm Referral,v0a,Founder
+ZOR-2023-0017,2023-09-26,Application Strategy,Application Support,21500,,,,21500,UG,USA,Warm Referral,v0a,Founder
+ZOR-2023-0020,2023-09-13,Application Strategy,Application Support,21500,,,,21500,UG,UK,WhatsApp Organic,v0a,Founder
+ZOR-2023-0021,2023-09-09,Application Strategy,Application Support,21500,,,,21500,UG,USA,Warm Referral,v0a,Founder
+ZOR-2023-0023,2023-10-20,Application Strategy,Application Support,21500,,,,21500,UG,Canada,Warm Referral,v0b,Operator 1
+ZOR-2023-0024,2023-10-26,Application Strategy,Application Support,21500,,,,21500,UG,Canada,Warm Referral,v0b,Operator 1
+ZOR-2023-0032,2023-11-21,University Strategy,Standalone,6500,,,,6500,UG,Canada,Warm Referral,v0b,Operator 1
+ZOR-2023-0039,2023-11-24,Application Strategy,Application Support,21500,,,,21500,UG,Canada,Warm Referral,v0b,Operator 1
+ZOR-2024-0058,2024-01-31,Application Strategy,Application Support,21500,,,,21500,UG,UK,Warm Referral,v0b,Operator 1
+ZOR-2024-0079,2024-02-03,University Strategy,Standalone,6500,,,,6500,UG,UK,Instagram,v0b,Operator 1
+ZOR-2024-0114,2024-02-29,Application Strategy,Application Support,21500,,,,21500,UG,USA,Warm Referral,v0b,Operator 1
+ZOR-2024-0144,2024-04-22,University Strategy,Standalone,6500,,,,6500,UG,Canada,Instagram,v0b,Operator 1
+ZOR-2024-0152,2024-04-24,Application Strategy,Application Support,21500,,,,21500,UG,USA,Warm Referral,v0b,Operator 1
+ZOR-2024-0206,2024-04-28,Application Strategy,Application Support,21500,,,,21500,UG,USA,Warm Referral,v0b,Operator 1
+ZOR-2024-0255,2024-06-26,Application Strategy,Application Support,21500,,,,21500,UG,Canada,Warm Referral,v0b,Operator 1
+ZOR-2024-0267,2024-06-24,Application Strategy,Application Support,21500,,,,21500,UG,USA,WhatsApp Organic,v0b,Operator 1
+ZOR-2024-0283,2024-07-22,Application Strategy,Application Support,21500,,,,21500,UG,Australia,WhatsApp Organic,v0b,Operator 1
+ZOR-2024-0287,2024-06-27,Application Strategy,Application Support,21500,,,,21500,UG,Canada,WhatsApp Organic,v0b,Operator 1
+ZOR-2024-0311,2024-07-18,Application Strategy,Application Support,21500,,,,21500,UG,UK,Warm Referral,v0b,Operator 1
+ZOR-2024-0343,2024-07-30,Application Strategy,Application Support,21500,,,,21500,UG,Australia,WhatsApp Organic,v0b,Operator 1
+ZOR-2024-0345,2024-08-06,University Strategy,Standalone,9500,,,,9500,UG,Canada,WhatsApp Organic,v0b,Operator 1
+ZOR-2024-0346,2024-09-12,Application Support,Application Support,26000,,,,26000,UG,USA,Warm Referral,v0b,Operator 1
+ZOR-2024-0355,2024-09-23,Application Support,Application Support,26000,1,6000,,32000,UG,UK,Warm Referral,v0b,Operator 1
+ZOR-2024-0359,2024-08-25,Essay Development,Standalone,13500,,,3,13500,UG,Australia,WhatsApp Organic,v0b,Operator 1
+ZOR-2024-0411,2024-10-07,University Strategy,Standalone,9500,,,,9500,UG,Canada,Warm Referral,v0b,Operator 1
+ZOR-2024-0486,2024-11-25,Visa Support,Standalone,5500,,,,5500,UG,Canada,Warm Referral,v0b,Operator 1
+ZOR-2024-0490,2024-10-28,Application Support,Application Support,26000,,,,26000,UG,Australia,Warm Referral,v0b,Operator 1
+ZOR-2024-0491,2024-11-04,University Strategy,Standalone,9500,,,,9500,PG,Other,Warm Referral,v0b,Operator 1
+ZOR-2024-0507,2024-11-12,Application Support,Application Support,26000,,,,26000,UG,Canada,Warm Referral,v0b,Operator 1
+ZOR-2024-0513,2024-10-29,Application Support,Application Support,26000,,,,26000,UG,UK,Warm Referral,v0b,Operator 1
+ZOR-2024-0517,2024-11-16,Application Support,Application Support,26000,,,,26000,UG,Australia,Warm Referral,v0b,Operator 1
+ZOR-2024-0527,2024-12-10,Application Support,Application Support,26000,,,,26000,UG,Other,WhatsApp Organic,v0b,Operator 1
+ZOR-2024-0541,2024-12-07,Essay Development,Standalone,11000,,,1,11000,UG,Canada,Warm Referral,v0b,Operator 1
+ZOR-2024-0568,2024-12-18,Application Support,Application Support,26000,,,,26000,PG,UK,Warm Referral,v0b,Operator 1
+ZOR-2024-0649,2025-01-13,University Strategy,Standalone,9500,,,,9500,UG,Australia,WhatsApp Organic,v0b,Operator 1
+ZOR-2024-0650,2025-01-22,University Strategy,Standalone,9500,,,,9500,PG,UK,Warm Referral,v0b,Operator 1
+ZOR-2024-0651,2024-12-21,Essay Development,Standalone,11000,,,1,11000,UG,Australia,Warm Referral,v0b,Operator 1
+ZOR-2024-0660,2025-01-13,Visa Support,Standalone,5500,,,,5500,UG,USA,Cold Reactivation,v0b,Operator 1
+ZOR-2025-0721,2025-02-04,Full Mentorship Guided,Full Mentorship,42000,,,,42000,UG,UK,WhatsApp Organic,v0b,Operator 1
+ZOR-2025-0727,2025-02-25,Visa Support,Standalone,5500,,,,5500,PG,Australia,Warm Referral,v0b,Operator 1
+ZOR-2025-0750,2025-03-03,Visa Support,Standalone,5500,,,,5500,UG,USA,Warm Referral,v0b,Operator 1
+ZOR-2025-0774,2025-04-04,Essay Development,Standalone,11000,,,1,11000,UG,Canada,Warm Referral,v1,Operator 2
+ZOR-2025-0839,2025-06-03,Full Mentorship Guided,Full Mentorship,42000,,,,42000,UG,Canada,Warm Referral,v1,Operator 2
+ZOR-2025-0840,2025-06-26,Full Mentorship Guided,Full Mentorship,42000,1,6000,,48000,UG,Australia,Educator Referral,v1,Operator 2
+ZOR-2025-0851,2025-06-30,Full Mentorship Guided,Full Mentorship,42000,,,,42000,UG,Australia,WhatsApp Organic,v1,Operator 2
+ZOR-2025-0852,2025-05-29,University Strategy,Standalone,9500,,,,9500,UG,USA,Cold Reactivation,v1,Operator 2
+ZOR-2025-0865,2025-07-12,Full Mentorship Guided,Full Mentorship,42000,,,,42000,UG,Canada,Instagram,v2,Operator 2
+ZOR-2025-0878,2025-07-09,University Strategy,Standalone,9500,,,,9500,UG,Australia,Warm Referral,v2,Operator 2
+ZOR-2025-0890,2025-07-26,Full Mentorship Managed,Full Mentorship,58000,,,,58000,UG,UK,WhatsApp Organic,v2,Operator 2
+ZOR-2025-0892,2025-07-04,Application Support,Application Support,26000,,,,26000,UG,Australia,Warm Referral,v2,Operator 2
+ZOR-2025-0903,2025-07-31,Application Support,Application Support,26000,,,,26000,UG,USA,Warm Referral,v2,Operator 2
+ZOR-2025-0919,2025-07-25,Full Mentorship Guided,Full Mentorship,42000,,,,42000,UG,UK,Warm Referral,v2,Operator 2
+ZOR-2025-0920,2025-08-05,Full Mentorship Guided,Full Mentorship,42000,,,,42000,UG,UK,Warm Referral,v2,Operator 2
+ZOR-2025-0940,2025-09-15,Application Support,Application Support,26000,,,,26000,UG,Australia,Warm Referral,v2,Operator 2
+ZOR-2025-0947,2025-09-08,Full Mentorship Managed,Full Mentorship,58000,,,,58000,UG,Australia,Educator Referral,v2,Operator 2
+ZOR-2025-0956,2025-09-17,Full Mentorship Guided,Full Mentorship,42000,,,,42000,UG,UK,Cold Reactivation,v2,Operator 2
+ZOR-2025-0970,2025-09-11,Application Support,Application Support,26000,,,,26000,PG,Australia,Warm Referral,v2,Operator 2
+ZOR-2025-0978,2025-09-15,Full Mentorship Guided,Full Mentorship,42000,2,12000,,54000,UG,Australia,Educator Referral,v2,Operator 2
+ZOR-2025-0979,2025-09-30,Full Mentorship Managed,Full Mentorship,58000,,,,58000,UG,Australia,WhatsApp Organic,v2,Operator 2
+ZOR-2025-0991,2025-09-15,Full Mentorship Managed,Full Mentorship,58000,,,,58000,UG,USA,Warm Referral,v2,Operator 2
+ZOR-2025-1007,2025-10-12,Full Mentorship Guided,Full Mentorship,42000,,,,42000,UG,USA,Warm Referral,v2,Operator 2
+ZOR-2025-1016,2025-10-18,Full Mentorship Managed,Full Mentorship,58000,,,,58000,UG,Australia,WhatsApp Organic,v2,Operator 2
+ZOR-2025-1017,2025-10-06,Full Mentorship Managed,Full Mentorship,58000,,,,58000,UG,USA,WhatsApp Organic,v2,Operator 2
+ZOR-2025-1047,2025-10-05,Application Support,Application Support,26000,,,,26000,UG,Other,Educator Referral,v2,Operator 2
+ZOR-2025-1049,2025-10-16,Full Mentorship Guided,Full Mentorship,42000,,,,42000,UG,Australia,Warm Referral,v2,Operator 2
+ZOR-2025-1057,2025-10-02,University Strategy,Standalone,9500,,,,9500,UG,Other,Facebook,v2,Operator 2
+ZOR-2025-1060,2025-10-29,University Strategy,Standalone,9500,,,,9500,UG,UK,Warm Referral,v2,Operator 2
+ZOR-2025-1078,2025-11-22,Full Mentorship Managed,Full Mentorship,58000,,,,58000,UG,UK,Educator Referral,v3,Operator 2
+ZOR-2025-1092,2025-10-29,Full Mentorship Managed,Full Mentorship,58000,,,,58000,UG,UK,Warm Referral,v3,Operator 2
+ZOR-2025-1095,2025-11-04,Full Mentorship Managed,Full Mentorship,58000,,,,58000,UG,USA,WhatsApp Organic,v3,Operator 2
+ZOR-2025-1105,2025-11-03,University Strategy,Standalone,9500,,,,9500,UG,UK,Warm Referral,v3,Operator 2
+ZOR-2025-1136,2025-11-13,Application Support,Application Support,26000,,,,26000,UG,UK,Warm Referral,v3,Operator 2
+ZOR-2025-1140,2025-11-11,Essay Development,Standalone,11000,,,1,11000,UG,Other,WhatsApp Organic,v3,Operator 2
+ZOR-2025-1148,2025-12-05,Full Mentorship Managed,Full Mentorship,58000,,,,58000,UG,UK,Warm Referral,v3,Operator 2
+ZOR-2025-1159,2025-12-02,Full Mentorship Managed,Full Mentorship,58000,,,,58000,UG,Canada,WhatsApp Organic,v3,Operator 2
+ZOR-2025-1163,2025-12-23,Full Mentorship Guided,Full Mentorship,42000,,,,42000,UG,Canada,Warm Referral,v3,Operator 2
+ZOR-2025-1171,2025-12-20,Essay Development,Standalone,11000,,,1,11000,UG,Australia,WhatsApp Organic,v3,Operator 2
+ZOR-2025-1181,2025-12-29,Full Mentorship Guided,Full Mentorship,42000,,,,42000,UG,Australia,Educator Referral,v3,Operator 2
+ZOR-2025-1186,2025-12-08,University Strategy,Standalone,9500,,,,9500,UG,Australia,Educator Referral,v3,Operator 2
+ZOR-2025-1206,2025-12-15,Full Mentorship Guided,Full Mentorship,42000,,,,42000,UG,Other,WhatsApp Organic,v3,Operator 2
+ZOR-2025-1222,2025-12-14,Full Mentorship Guided,Full Mentorship,42000,,,,42000,PG,UK,WhatsApp Organic,v3,Operator 2
+ZOR-2025-1223,2025-11-26,Application Support,Application Support,26000,,,,26000,UG,Australia,Warm Referral,v3,Operator 2
+ZOR-2025-1230,2025-12-19,Full Mentorship Guided,Full Mentorship,42000,,,,42000,UG,Australia,Cold Reactivation,v3,Operator 2
+ZOR-2025-1233,2025-12-31,Full Mentorship Guided,Full Mentorship,42000,,,,42000,UG,Canada,Warm Referral,v3,Operator 2
+ZOR-2025-1236,2026-01-26,Full Mentorship Guided,Full Mentorship,42000,,,,42000,UG,UK,Educator Referral,v3,Operator 2
+ZOR-2025-1239,2026-01-16,Full Mentorship Managed,Full Mentorship,58000,,,,58000,UG,Canada,Warm Referral,v3,Operator 2
+ZOR-2025-1244,2026-01-06,University Strategy,Standalone,9500,,,,9500,UG,USA,WhatsApp Organic,v3,Operator 2
+ZOR-2025-1258,2026-01-11,Application Support,Application Support,26000,,,,26000,UG,UK,Warm Referral,v3,Operator 2
+ZOR-2025-1267,2026-01-21,Application Support,Application Support,26000,,,,26000,UG,Australia,Warm Referral,v3,Operator 2
+ZOR-2025-1275,2025-12-25,Full Mentorship Guided,Full Mentorship,42000,,,,42000,UG,USA,Cold Reactivation,v3,Operator 2
+ZOR-2025-1277,2026-01-15,Application Support,Application Support,26000,,,,26000,UG,Canada,Educator Referral,v3,Operator 2
+ZOR-2025-1292,2026-01-08,Full Mentorship Managed,Full Mentorship,58000,,,,58000,UG,USA,Warm Referral,v3,Operator 2
+ZOR-2025-1293,2026-01-07,Application Support,Application Support,26000,,,,26000,UG,UK,Warm Referral,v3,Operator 2
+ZOR-2026-1309,2026-02-15,Full Mentorship Managed,Full Mentorship,58000,,,,58000,PG,USA,Warm Referral,v3,Operator 2
+ZOR-2026-1316,2026-01-29,Full Mentorship Guided,Full Mentorship,42000,2,12000,,54000,PG,USA,Warm Referral,v3,Operator 2
+ZOR-2026-1318,2026-01-31,Full Mentorship Guided,Full Mentorship,42000,,,,42000,UG,USA,Warm Referral,v3,Operator 2
+ZOR-2026-1333,2026-02-22,Full Mentorship Guided,Full Mentorship,42000,,,,42000,UG,USA,Educator Referral,v3,Operator 2
+ZOR-2026-1334,2026-02-13,Application Support,Application Support,26000,,,,26000,PG,UK,WhatsApp Organic,v3,Operator 2
+ZOR-2026-1347,2026-02-03,Application Support,Application Support,26000,,,,26000,UG,Other,Educator Referral,v3,Operator 2
+ZOR-2026-1356,2026-03-05,Visa Support,Standalone,5500,,,,5500,UG,USA,Warm Referral,v3,Operator 2
+ZOR-2026-1359,2026-03-07,Full Mentorship Managed,Full Mentorship,58000,,,,58000,UG,USA,Cold Reactivation,v3,Operator 2
+ZOR-2026-1368,2026-03-03,Full Mentorship Guided,Full Mentorship,42000,,,,42000,UG,Canada,WhatsApp Organic,v3,Operator 2
+ZOR-2026-1377,2026-03-01,Essay Development,Standalone,11000,,,1,11000,UG,UK,Educator Referral,v3,Operator 2
+ZOR-2026-1383,2026-03-17,Application Support,Application Support,26000,,,,26000,UG,Australia,Warm Referral,v3,Operator 2
+ZOR-2026-1385,2026-02-28,Full Mentorship Managed,Full Mentorship,58000,,,,58000,UG,Australia,Warm Referral,v3,Operator 2
+ZOR-2026-1399,2026-04-23,Full Mentorship Guided,Full Mentorship,42000,,,,42000,UG,Australia,WhatsApp Organic,v3,Operator 2
+ZOR-2026-1405,2026-03-28,Full Mentorship Managed,Full Mentorship,58000,,,,58000,UG,USA,WhatsApp Organic,v3,Operator 2
+ZOR-2026-1433,2026-05-01,Application Support,Application Support,26000,1,6000,,32000,UG,Australia,WhatsApp Organic,v3,Operator 2
+ZOR-2026-1434,2026-05-01,University Strategy,Standalone,9500,,,,9500,UG,UK,Educator Referral,v3,Operator 2
+ZOR-2026-1438,2026-05-19,Application Support,Application Support,26000,,,,26000,UG,Canada,Warm Referral,v3,Operator 2
+ZOR-2026-1439,2026-05-05,Full Mentorship Guided,Full Mentorship,42000,,,,42000,PG,Canada,Educator Referral,v3,Operator 2
+ZOR-2026-1443,2026-06-10,Application Support,Application Support,26000,,,,26000,PG,UK,Warm Referral,v3,Operator 2
+ZOR-2026-1445,2026-06-21,Full Mentorship Managed,Full Mentorship,58000,,,,58000,UG,UK,Educator Referral,v3,Operator 2
+ZOR-2026-1450,2026-06-06,Full Mentorship Managed,Full Mentorship,58000,,,,58000,UG,Other,WhatsApp Organic,v3,Operator 2
+ZOR-2026-1455,2026-06-11,Full Mentorship Managed,Full Mentorship,58000,,,,58000,UG,Australia,Warm Referral,v3,Operator 2

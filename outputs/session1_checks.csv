@@ -1,0 +1,17 @@
+check,result,detail
+Cohort table holds every lead,PASS,1458 of 1458
+Cohort table holds every paid client,PASS,120 of 120
+Every call and payment is in the arrival month or the next,PASS,timing columns add up to the totals
+History: paid clients in 2024 = 27 (locked),PASS,27
+History: paid clients in 2025 = 50 (locked),PASS,50
+"History: revenue Jan 2024 to May 2026 = BDT 3,160,500",PASS,"3,160,500"
+base: every rate between 0 and 100%,PASS,"min 2.6%, max 88.9%"
+base: seasonality averages exactly 1,PASS,1.000000
+base: timing shares between 0 and 1,PASS,"calls_same_month_share 49%, paid_same_month_share 14%"
+base: low <= base <= high for every driver,PASS,lead_volume 0.67-1.16; mql_rate 0.92-1.27; call_rate 0.96-1.09; call_to_paid 0.94-1.08; revenue_per_client 0.85-1.03
+base: drivers rebuild the window's paid clients within 10%,PASS,rebuilt 68.4 vs actual 69
+backtest: every rate between 0 and 100%,PASS,"min 7.5%, max 61.7%"
+backtest: seasonality averages exactly 1,PASS,1.000000
+backtest: timing shares between 0 and 1,PASS,"calls_same_month_share 45%, paid_same_month_share 30%"
+backtest: low <= base <= high for every driver,PASS,lead_volume 1.00-1.00; mql_rate 0.87-1.08; call_rate 0.75-1.12; call_to_paid 0.85-1.10; revenue_per_client 0.87-1.10
+backtest: drivers rebuild the window's paid clients within 10%,PASS,rebuilt 31.0 vs actual 30
